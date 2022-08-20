@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samarth Manwani</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam82arth" alt="sam82arth" /></a> </p>
-
 - 🔭 I’m currently working for [Zluri](https://zluri.com)
 
 - 🌱 I’m currently learning **Web3 and Machine Learning**
